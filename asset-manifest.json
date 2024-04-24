@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usecontext-react/static/css/main.4cbaf587.css",
+    "main.js": "/usecontext-react/static/js/main.4c0dd725.js",
+    "index.html": "/usecontext-react/index.html",
+    "main.4cbaf587.css.map": "/usecontext-react/static/css/main.4cbaf587.css.map",
+    "main.4c0dd725.js.map": "/usecontext-react/static/js/main.4c0dd725.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4cbaf587.css",
+    "static/js/main.4c0dd725.js"
+  ]
+}
